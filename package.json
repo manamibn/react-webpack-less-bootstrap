@@ -1,7 +1,7 @@
 {
   "name": "react-webpack-less-boilerplate",
   "version": "1.0.0",
-  "description": "react, webpack, less, bootstrap, react-bootstrap boilerplate",
+  "description": "react, webpack, less, bootstrap, react-bootstrap, eslint boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
